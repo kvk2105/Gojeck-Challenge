@@ -1,0 +1,17 @@
+Download,extract and place the project folder in HOME_DIR and follow below steps.
+Steps:
+1)In terminal, go to project directory:
+	cd <HOME_DIR>/ParkingLot/src/com/gojeck
+
+2)Compiling: javac *.java
+
+3)Go to src directory
+	cd <HOME_DIR>/ParkingLot/src/
+
+4)Running: 
+	
+	With File as input: Run below command.
+		java com.gojeck.ParkingLotDriver ~/Desktop/parkinglot_input.txt
+	
+	Interactive: Run below command.
+		java com.gojeck.ParkingLotDriver
